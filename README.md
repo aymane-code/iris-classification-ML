@@ -1,0 +1,2 @@
+Ce projet consiste à implémenter et comparer trois algorithmes de classification courants : K-Nearest Neighbors (KNN), Arbre de Décision, et Régression Logistique, appliqués au célèbre ensemble de données Iris.
+L'objectif est de prédire la classe de chaque fleur d'iris (Setosa, Versicolor ou Virginica) en fonction de ses caractéristiques morphologiques (longueur et largeur des sépales et pétales).
